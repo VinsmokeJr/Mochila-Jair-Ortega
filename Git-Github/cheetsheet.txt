@@ -1,0 +1,7 @@
+		CHEATSHEET GIT
+-git init creará un nuevo repositorio local.
+-git clone se usa para copiar un repositorio.
+-git add se usa para agregar archivos al área/stage.
+-git commit creará como una foto  instantánea de los cambios y la guardará en el directorio git.
+-git status muestra la lista de los archivos que se han cambiado junto con los archivos que están por ser preparados o confirmados.
+-git push se usa para enviar confirmaciones locales a la rama del repositorio remoto.
